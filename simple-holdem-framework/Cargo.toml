@@ -1,0 +1,10 @@
+[package]
+name = "simple-holdem-framework"
+version = "0.1.0"
+authors = ["Sowul <bartosz.sowul@protonmail.com>"]
+
+[dependencies]
+cards = "1.1.2"
+holdem = "0.1.2"
+pokereval = "0.1.2"
+pokerlookup = "0.1.2"
