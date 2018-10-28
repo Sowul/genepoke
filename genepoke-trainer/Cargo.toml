@@ -1,0 +1,7 @@
+[package]
+name = "genepoke-trainer"
+version = "0.1.0"
+authors = ["Sowul <bartosz.sowul@protonmail.com>"]
+
+[dependencies]
+rs_poker = "0.4.1"
