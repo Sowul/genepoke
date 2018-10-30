@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["Sowul <bartosz.sowul@protonmail.com>"]
 
 [dependencies]
+elapsed = "0.1"
 rs_poker = "0.4.1"
